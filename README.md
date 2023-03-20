@@ -17,7 +17,7 @@
 3- Add the way that you used to solve the error.
   
   
-   _Step 1:_ You Should Open Windows Power shell As Administrator  
+   _Step 1:_ Open Windows Power shell As Administrator  
 
    _Step 2:_ Run This Command : wsl --install -d ubuntu
 
