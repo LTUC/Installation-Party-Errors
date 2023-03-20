@@ -17,9 +17,9 @@
 3- Add the way that you used to solve the error.
   
   
-   _Step 1:_ Open Windows Power shell As Administrator  
+   _For Example:_ [Link](https://github.com/LTUC/Prep-Installation-Errors/blob/main/Ubuntu%20is%20not%20installing%20from%20the%20Microsoft%20Store.md) 
 
-   _Step 2:_ Run This Command : wsl --install -d ubuntu
+   
 
 And so on ,,, 
 
