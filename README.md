@@ -5,7 +5,7 @@
 ![](https://www.batimes.com/wp-content/themes/yootheme/cache/e21b2626f11dbd7c071c1bdc38aee1f6-7f0e769b.jpeg)
 
 
-## This REPO is to document the common errors encountered during the installation.
+## This Repo is to document the common errors encountered during the installation.
 
 
 ## The Way To document your error :
