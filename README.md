@@ -19,10 +19,6 @@
   
    _For Example:_ [Link](https://github.com/LTUC/Prep-Installation-Errors/blob/main/Ubuntu%20is%20not%20installing%20from%20the%20Microsoft%20Store.md) 
 
-   
+   _Or You Can Add A Good Resource:_  [link]() 
 
-And so on ,,, 
 
-**Or You Can Add A Good Resource** 
-
-**Link:** [link]()
